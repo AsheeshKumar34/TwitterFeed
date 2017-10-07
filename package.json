@@ -1,0 +1,21 @@
+{
+  "name": "tweet",
+  "version": "1.0.0",
+  "description": "See who you follow who doesnt follow you back",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Asheesh",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jsdom": "^11.3.0",
+    "node-jsdom": "^3.1.5",
+    "twitter": "^1.7.1"
+  }
+}
