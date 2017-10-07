@@ -10,7 +10,7 @@ Make sure you have node and npm installed.
     npm install jsdom
     npm install pagination
     
-## 2. Go to the project folder and run "npm start" command.
+## 2. Go to the project folder and run "npm start" or "node index.js" command.
 
 ## 3. Open brower and type the url "http//:localhost:8000".
 
